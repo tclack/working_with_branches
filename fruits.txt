@@ -2,3 +2,5 @@ Pear
 Apple
 Raspberry
 Melon
+Strawberries
+Blackberries
