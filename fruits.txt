@@ -2,3 +2,6 @@ Pear
 Apple
 Raspberry
 Melon
+Grapes
+Bananas
+Peaches
